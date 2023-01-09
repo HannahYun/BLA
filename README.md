@@ -6,6 +6,6 @@ Learning Helper Timer Application Using EEG Analysis
 This is an early design using Figma. This is different from the final version.
 
 ## Tools
-Emotiv Insight 2.0 - brainwave analysis device
-Figma - Planning, prototyping and design
-Flutter - App programming
+Emotiv Insight 2.0 - brainwave analysis device  
+Figma - Planning, prototyping and design  
+Flutter - App programming  

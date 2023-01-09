@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502866424093",
+    "firebase_url": "https://hci-bla-default-rtdb.firebaseio.com",
+    "project_id": "hci-bla",
+    "storage_bucket": "hci-bla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502866424093:android:a397fb0f20cfd6564ff1f4",
+        "android_client_info": {
+          "package_name": "com.example.bla_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502866424093-vegeu9r0g09ti44gm3sgrl5jjl9rpnnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtuaTKZ-mUZ4_zxmgdNS6TOcAnwqkSas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502866424093-vegeu9r0g09ti44gm3sgrl5jjl9rpnnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
